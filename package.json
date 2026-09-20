@@ -1,0 +1,28 @@
+{
+  "name": "thermal-solar-card",
+  "version": "1.0.0",
+  "description": "Interactive evacuated tube thermal solar collector and stratified buffer storage tank Lovelace card for Home Assistant.",
+  "main": "thermal-solar-card.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soosbrecht/thermal_solar_card.git"
+  },
+  "keywords": [
+    "home-assistant",
+    "homeassistant",
+    "lovelace",
+    "custom-card",
+    "hacs",
+    "solar",
+    "solarthermie",
+    "thermal-solar",
+    "evacuated-tube",
+    "buffer-tank"
+  ],
+  "author": "Soosbrecht",
+  "license": "MIT"
+}
+
